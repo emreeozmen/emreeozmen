@@ -54,13 +54,6 @@ users build a weighted portfolio and analyze its risk/return profile.
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreeozmen&show_icons=true&hide_border=true" height="165" alt="Emre's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreeozmen&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eemreozmenn/)
