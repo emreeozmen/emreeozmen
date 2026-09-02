@@ -1,7 +1,13 @@
-<h1 align="center">Hi, I'm Emre Özmen 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Emre%20%C3%96zmen&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematics%20Graduate%20%C2%B7%20Data%20%26%20Business%20Analyst%20%C2%B7%20FinTech&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <p align="center">
-  Mathematics graduate · Data &amp; Business Analyst · building things in FinTech
+  <a href="https://www.linkedin.com/in/eemreozmenn/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Mathematics+Graduate+%40+Istanbul+University;Data+Analyst+%2F+Business+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+a+Financial+Risk+%26+Portfolio+Platform" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emreeozmen&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -58,3 +64,5 @@ users build a weighted portfolio and analyze its risk/return profile.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eemreozmenn/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emreozmenn2@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" width="100%" alt="footer" />
